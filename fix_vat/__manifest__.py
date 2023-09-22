@@ -8,11 +8,12 @@
     'website': "https://witlinkgt.com/",
     'category': 'contacts',
     'version': '0.1',
-    'License': 'LGPL-3',
+    'license': 'LGPL-3',
     'depends': ['base','contacts'],
     'data': [
     ],
     'demo': [],
+    'images': ['static/description/banner.gif'],
     'installable': True,
     'application': True,
     'auto_install': False
